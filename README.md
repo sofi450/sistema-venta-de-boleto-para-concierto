@@ -1,6 +1,8 @@
 # sistema-venta-de-boleto-para-concierto
 Sofia Diaz Benites
 
+![Diagrama UML](diagrama ejercicio.jpeg)
+
 Clases del sistema
 
   - Usuario
